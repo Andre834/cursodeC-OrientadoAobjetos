@@ -1,0 +1,15 @@
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.AssemblyReference.cache
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfoInputs.cache
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfo.cs
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.CoreCompileInputs.cache
+D:\Desktop\cursoC#\01Conceitos\bin\Debug\net6.0\01Conceitos.exe
+D:\Desktop\cursoC#\01Conceitos\bin\Debug\net6.0\01Conceitos.deps.json
+D:\Desktop\cursoC#\01Conceitos\bin\Debug\net6.0\01Conceitos.runtimeconfig.json
+D:\Desktop\cursoC#\01Conceitos\bin\Debug\net6.0\01Conceitos.dll
+D:\Desktop\cursoC#\01Conceitos\bin\Debug\net6.0\ref\01Conceitos.dll
+D:\Desktop\cursoC#\01Conceitos\bin\Debug\net6.0\01Conceitos.pdb
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.dll
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\ref\01Conceitos.dll
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.pdb
+D:\Desktop\cursoC#\01Conceitos\obj\Debug\net6.0\01Conceitos.genruntimeconfig.cache
